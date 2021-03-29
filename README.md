@@ -9,7 +9,7 @@ This plugin is currently a RadioDJ plugin. Everything it contains comes from a R
 * Music to play
 
 ## TodoList
-* Re-work the code a bit, making it simpler. Accordingly to the BetterForCode advices
+* Re-work the code a bit, making it simpler.
 * Add some AJAX/Jquery to refresh the informations zones without reloading the page
 * Requests System
 * Playlist Manager
